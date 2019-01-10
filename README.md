@@ -1,5 +1,4 @@
 # AutoLogin - Mikrotik Hotspot Authentication
-_____
  ### Requirement
  - Python 3.4+
  - Selenium - Module
