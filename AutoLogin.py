@@ -54,5 +54,6 @@ if Auto.LoginCheck():
     print("[Status] : Already login")
     Auto.CloseBrowser()
 else:
+    print("[Status] : Not logged in")
     Auto.Login()
     Auto.CloseBrowser()
