@@ -17,5 +17,7 @@
  Ex. Firefox\
  _line(16) : "self.driver = webdriver.Chrome()" Edit as "self.driver = webdriver.Firefox()"
  3. Run "AutoLogin.py" Python File
-### Reference
+ ### Video
+ - https://youtu.be/qNM5Lm2yK50
+ ### Reference
  - https://pypi.org/project/selenium/
